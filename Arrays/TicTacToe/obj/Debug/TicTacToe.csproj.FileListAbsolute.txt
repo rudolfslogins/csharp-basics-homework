@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\bin\Debug\TicTacToe.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\bin\Debug\Logic-02.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-02\obj\Debug\Logic-02.pdb

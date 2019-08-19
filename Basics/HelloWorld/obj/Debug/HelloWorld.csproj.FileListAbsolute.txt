@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\bin\Debug\HelloWorld.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\bin\Debug\HelloWorld.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\obj\Debug\HelloWorld.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\HelloWorld\obj\Debug\HelloWorld.pdb
