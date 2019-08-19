@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\bin\Debug\Exercise6.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\bin\Debug\Exercise6.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\bin\Debug\Exercise6.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\obj\Debug\Exercise6.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\obj\Debug\Exercise6.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Exercise6\obj\Debug\Exercise6.pdb

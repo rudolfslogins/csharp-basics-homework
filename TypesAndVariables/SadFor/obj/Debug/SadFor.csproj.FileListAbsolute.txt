@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\obj\Debug\SadFor.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\obj\Debug\SadFor.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\bin\Debug\SadFor.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\bin\Debug\SadFor.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\bin\Debug\SadFor.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\obj\Debug\SadFor.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\SadFor\obj\Debug\SadFor.pdb
