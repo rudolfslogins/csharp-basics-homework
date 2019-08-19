@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\bin\Debug\CalculateArea.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\CalculateArea\obj\Debug\CalculateArea.pdb

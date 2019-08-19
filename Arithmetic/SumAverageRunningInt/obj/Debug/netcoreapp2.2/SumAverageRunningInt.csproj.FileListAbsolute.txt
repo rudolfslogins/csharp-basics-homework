@@ -1,0 +1,11 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\bin\Debug\netcoreapp2.2\SumAverageRunningInt.deps.json
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\bin\Debug\netcoreapp2.2\SumAverageRunningInt.runtimeconfig.json
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\bin\Debug\netcoreapp2.2\SumAverageRunningInt.runtimeconfig.dev.json
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\bin\Debug\netcoreapp2.2\SumAverageRunningInt.dll
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\bin\Debug\netcoreapp2.2\SumAverageRunningInt.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.AssemblyInfoInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.AssemblyInfo.cs
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.dll
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAverageRunningInt\obj\Debug\netcoreapp2.2\SumAverageRunningInt.pdb
