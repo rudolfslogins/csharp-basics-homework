@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\bin\Debug\Exercise4.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\Exercise4\obj\Debug\Exercise4.pdb

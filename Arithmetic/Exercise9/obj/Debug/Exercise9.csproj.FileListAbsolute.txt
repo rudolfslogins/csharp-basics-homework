@@ -1,6 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\bin\Debug\Exercise9.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\bin\Debug\Exercise9.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\bin\Debug\Exercise9.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\obj\Debug\Exercise9.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arithmetic\Exercise9\obj\Debug\Exercise9.pdb
