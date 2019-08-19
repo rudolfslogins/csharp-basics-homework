@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\bin\Debug\Exercise1.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\bin\Debug\Exercise1.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\bin\Debug\Exercise1.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise1\obj\Debug\Exercise1.pdb
