@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\bin\Debug\VariablesAndNames.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\bin\Debug\VariablesAndNames.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\bin\Debug\VariablesAndNames.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\obj\Debug\VariablesAndNames.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\obj\Debug\VariablesAndNames.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\obj\Debug\VariablesAndNames.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\VariablesAndNames\obj\Debug\VariablesAndNames.pdb
