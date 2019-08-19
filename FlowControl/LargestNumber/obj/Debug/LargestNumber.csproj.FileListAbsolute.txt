@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\bin\Debug\LargestNumber.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\bin\Debug\LargestNumber.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\bin\Debug\LargestNumber.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\obj\Debug\LargestNumber.csprojAssemblyReference.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\obj\Debug\LargestNumber.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\LargestNumber\obj\Debug\LargestNumber.pdb
