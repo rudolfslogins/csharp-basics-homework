@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\bin\Debug\AddNumbers-02.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\AddNumbers-02\obj\Debug\AddNumbers-02.pdb

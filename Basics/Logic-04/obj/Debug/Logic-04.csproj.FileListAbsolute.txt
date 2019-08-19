@@ -1,0 +1,6 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\bin\Debug\Logic-04.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Logic-04\obj\Debug\Logic-04.pdb

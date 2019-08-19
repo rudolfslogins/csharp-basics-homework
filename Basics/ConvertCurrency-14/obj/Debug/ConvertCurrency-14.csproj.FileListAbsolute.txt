@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\bin\Debug\ConvertCurrency_14.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency-14.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency-14.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency_14.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\ConvertCurrency-14\obj\Debug\ConvertCurrency_14.pdb

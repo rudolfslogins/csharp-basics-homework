@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\bin\Debug\Outpit_01.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\bin\Debug\Outpit_01.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\bin\Debug\Outpit_01.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\obj\Debug\Output-01.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\obj\Debug\Output-01.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\obj\Debug\Outpit_01.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Outpit-01\obj\Debug\Outpit_01.pdb

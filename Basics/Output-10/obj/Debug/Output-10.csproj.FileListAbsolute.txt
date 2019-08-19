@@ -1,0 +1,6 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\bin\Debug\Output-10.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Output-10\obj\Debug\Output-10.pdb
