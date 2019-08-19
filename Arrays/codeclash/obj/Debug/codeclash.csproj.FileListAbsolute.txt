@@ -1,0 +1,7 @@
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\bin\Debug\codeclash.exe.config
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\bin\Debug\codeclash.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\bin\Debug\codeclash.pdb
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\obj\Debug\codeclash.csprojAssemblyReference.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\obj\Debug\codeclash.csproj.CoreCompileInputs.cache
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\obj\Debug\codeclash.exe
+D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\codeclash\obj\Debug\codeclash.pdb
