@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\bin\Debug\Tax_11.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax-11.csprojAssemblyReference.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax-11.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax_11.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\Basics\Tax-11\obj\Debug\Tax_11.pdb
