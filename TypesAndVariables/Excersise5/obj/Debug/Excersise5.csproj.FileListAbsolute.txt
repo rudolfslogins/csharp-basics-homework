@@ -1,7 +1,0 @@
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\bin\Debug\Excersise5.exe.config
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\bin\Debug\Excersise5.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\bin\Debug\Excersise5.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\obj\Debug\Excersise5.csproj.CoreCompileInputs.cache
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\obj\Debug\Excersise5.exe
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\obj\Debug\Excersise5.pdb
-D:\CODELEX\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Excersise5\obj\Debug\Excersise5.csprojAssemblyReference.cache
