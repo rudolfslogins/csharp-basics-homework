@@ -1,0 +1,7 @@
+Janis, 123456
+Karlis, 456987
+Nauris, 124578
+Harry, 44123456789
+Rita, 369852
+Laura, 852147
+Rudolfs, 569345
